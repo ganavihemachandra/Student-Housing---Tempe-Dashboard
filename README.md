@@ -1,4 +1,5 @@
 # Student Housing - Tempe Dashboard
+![Uploading image.png…]()
 
 Welcome to the Student Housing - Tempe Dashboard repository! This repository contains the code and resources for the interactive dashboard designed to provide insights into student housing in Tempe, Arizona. Whether you're a student, parent, university administrator, working professional, or real estate investor, this dashboard offers valuable information based on student opinions and preferences.
 
